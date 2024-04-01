@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ceyhun Emre Öztürk</h1>
-<h3 align="center">Master's Student @ Bilkent University Electrical and Electronics Engineering</h3>
+<h3 align="center">AI engineer</h3>
 
-- 🔭 I’m currently working on **Natural Language Processing (NLP) projects**
+- 🔭 I’m currently working on **Reinforcement Learning (RL) and Natural Language Processing (NLP) projects**
 
 - 📫 How to reach me **ceyhunemreozturk@hotmail.com**
 
