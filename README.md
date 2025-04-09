@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ceyhun Emre Öztürk</h1>
 <h3 align="center">AI engineer</h3>
 
-- 🔭 I’m currently working on **Reinforcement Learning (RL) and Natural Language Processing (NLP) projects**
+- 🔭 I’m currently working on **AI projects about time-series data**. My interests also include **Reinforcement Learning (RL) and Natural Language Processing (NLP)**
 
 - 📫 How to reach me **ceyhunemreozturk@hotmail.com**
 
